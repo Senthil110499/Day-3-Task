@@ -1,4 +1,4 @@
-### ** _Compare two JSON have the same properties without order_ **
+### **_Compare two JSON have the same properties without order_**
 
 [compare two JSON](objectcompare.js)
 
